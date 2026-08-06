@@ -62,6 +62,7 @@ Accuracy:
 ---
 
 ## Visualizations
+  -K Vs Accuracy
   ![K vs Accuracy](images/knn_accuracy.png)
-
+  -Confusion Matrix
   ![Confusion Matrix](images/confusion_matrix.png)
