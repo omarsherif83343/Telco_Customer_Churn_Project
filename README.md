@@ -139,9 +139,6 @@ The project evaluates the model using:
 
 - Accuracy Score
 - Confusion Matrix
-- Precision
-- Recall
-- F1-Score
 
 ---
 
