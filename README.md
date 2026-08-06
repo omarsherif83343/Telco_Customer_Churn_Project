@@ -191,6 +191,6 @@ Compare all models using:
 
 Data Analyst | AI Engineer
 
-GitHub: 
+GitHub: https://github.com/omarsherif83343
 
 LinkedIn: https://www.linkedin.com/in/omar-sherif-860a852a3/?skipRedirect=true
